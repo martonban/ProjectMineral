@@ -1,4 +1,5 @@
 #pragma once
+#include "renderer2d.h"
 class Window
 {
 	public:
@@ -8,5 +9,6 @@ class Window
 	private:
 		int width;
 		int height;
+		Renderer2D renderer;
 };
 

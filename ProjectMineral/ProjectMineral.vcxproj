@@ -140,15 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="renderer.cpp" />
     <ClCompile Include="renderer2d.cpp" />
-    <ClCompile Include="renderer3d.cpp" />
     <ClCompile Include="window.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="renderer.h" />
     <ClInclude Include="renderer2d.h" />
-    <ClInclude Include="renderer3d.h" />
     <ClInclude Include="window.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
