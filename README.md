@@ -1,3 +1,9 @@
 # Project Mineral
 
-Project Mineral is a 2D game in NebulaPax. NebulaPax is not supporting the core-editor-game structure yet, thus the engine earlier version is just good for only this game. You can build it if you want, but it will be a huge pain, but if you want to play with the game check out my itch.io page!
+Project Mineral is a sci-fi 2D RPG game in NebulaPax.
+
+## Paly the game
+If you want to play with this game free feel to check out my itch.io profile. 
+
+## Getting Started From Source Code
+Currently Project Mineral is based on NebulaPax early version, where the classical Game - Editor - Core structure is not supported yet. So if you want to build this project or NebulaPax itself you need get NebulaPax and this project. After that in the source code you need to give this folder full path. 

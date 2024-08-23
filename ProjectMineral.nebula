@@ -1,0 +1,15 @@
+ProjectName:Project Mineral;
+Version:0.1;
+BuildMessage:Alpha development build;
+RenderAPI:RAYLIB;
+RenderMode:2D;
+RenderPipline:#;
+
+ScenesBank {
+    TEST_SCENE : /scene_1.txt;
+    #;
+}
+
+ResourceBank {
+    #;
+}
