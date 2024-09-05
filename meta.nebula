@@ -11,5 +11,5 @@ RenderAPI : RAYLIB;
 RenderMode : TWO_D;
 
 [MetaData]
-ProjectFile : /ProjectMineral.json;
+SceneBank : /ProjectMineral.json;
 ResourseBank : /ResourseBank.json;
